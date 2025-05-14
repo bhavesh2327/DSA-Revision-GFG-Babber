@@ -1,4 +1,4 @@
-SA-GFG-BABBER-SHEET is a GitHub repository created to keep track of all the daily DSA (Data Structures and Algorithms) questions being solved from the Babbar DSA series on GeeksforGeeks.
+DSA-GFG-BABBER-SHEET is a GitHub repository created to keep track of all the daily DSA (Data Structures and Algorithms) questions being solved from the Babbar DSA series on GeeksforGeeks.
 
 🔍 Purpose
 This repository is built to:
